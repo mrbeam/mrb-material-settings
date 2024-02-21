@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - name: Checkout current repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Checkout mrb3-core-plugin
         uses: actions/checkout@v4
@@ -30,8 +30,8 @@ jobs:
         run: |
           cd $GITHUB_WORKSPACE/mrb3-core-plugin
           
-          git config --global user.email "softwareautomations@mr-beam.org"
-          git config --global user.name "sw-automations-mrbeam"
+          git config --global user.email "${{vars.SW_AUTOMATIONS_EMAIL}}"
+          git config --global user.name "${{vars.SW_AUTOMATIONS_NAME}}"
           
           git add .
           git commit -m "Update material settings to ${{ github.event.release.tag_name }}"
