@@ -1,11 +1,11 @@
 {
-  "version": "1.2.1a7",
+  "version": "1.2.1a8",
   "createdAt": "Mon, 03 Mar 2025 11:29:19 GMT",
   "materials": {
     "Acrylic": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Acrylic.jpg",
       "shop_name": "",
       "colors": {
         "#434343": {
@@ -871,7 +871,7 @@
     "Acrylic two tone": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Acrylic-Two-Tone.jpg",
       "shop_name": "Mr Beam Laser Acrylic, two tone",
       "colors": {
         "#008f39": {
@@ -1203,7 +1203,7 @@
     "Anodized Aluminum": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Anodized-Aluminum.jpg",
       "shop_name": "",
       "colors": {
         "#000000": {
@@ -1263,7 +1263,7 @@
     "Balsa Wood": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Basla-Wood.jpg",
       "shop_name": "",
       "colors": {
         "#d4b26f": {
@@ -1506,7 +1506,7 @@
     "Bamboo": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Bamboo.jpg",
       "shop_name": "",
       "colors": {
         "#e7c982": {
@@ -1566,7 +1566,7 @@
     "Cardboard, corrugated double wave": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Cardboard.jpg",
       "shop_name": "",
       "colors": {
         "#8b624a": {
@@ -1718,7 +1718,7 @@
     "Cardboard, corrugated single wave": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Cardboard.jpg",
       "shop_name": "",
       "colors": {
         "#8b624a": {
@@ -1961,7 +1961,7 @@
     "Cork": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Cork.jpg",
       "shop_name": "",
       "colors": {
         "#c19c73": {
@@ -2023,7 +2023,7 @@
     "Felt": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Felt.jpg",
       "shop_name": "",
       "colors": {
         "#293365": {
@@ -3402,7 +3402,7 @@
     "Finn Cardboard": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Finn-Cardboard.jpg",
       "shop_name": "",
       "colors": {
         "#c7c97c": {
@@ -3605,7 +3605,7 @@
     "Foam": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Polyethylene-Foam.jpg",
       "shop_name": "",
       "colors": {
         "#000000": {
@@ -3986,7 +3986,7 @@
     "Foam Rubber": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Foam-Rubber.jpg",
       "shop_name": "",
       "colors": {
         "#0057a8": {
@@ -4683,7 +4683,7 @@
     "Glitter Felt": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Glitter-Felt.jpg",
       "shop_name": "Mr Beam Glitter Acrylic Felt. black",
       "colors": {
         "#000000": {
@@ -4943,7 +4943,7 @@
     "Grey Cardboard": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Grey-Cardboard.jpg",
       "shop_name": "",
       "colors": {
         "#cccccc": {
@@ -5049,7 +5049,7 @@
     "Jersey Fabric": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Fabric.jpg",
       "shop_name": "",
       "colors": {
         "#1155cc": {
@@ -5337,7 +5337,7 @@
     "Kraftplex": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Kraftplex.jpg",
       "shop_name": "",
       "colors": {
         "#795f39": {
@@ -5590,7 +5590,7 @@
     "Kraftplex (wave)": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Kraftplex-Wave.jpg",
       "shop_name": "",
       "colors": {
         "#e7d27f": {
@@ -5690,7 +5690,7 @@
     "Laser Leather": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Laser-Leather.jpg",
       "shop_name": "",
       "colors": {
         "#000000": {
@@ -5971,7 +5971,7 @@
     "Leather": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Leather.jpg",
       "shop_name": "",
       "colors": {
         "#693c0c": {
@@ -6173,7 +6173,7 @@
     "Linoleum": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Linoleum.jpg",
       "shop_name": "",
       "colors": {
         "0": {
@@ -6255,7 +6255,7 @@
     "Mirror": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Mirror.jpg",
       "shop_name": "",
       "colors": {
         "#cbcccb": {
@@ -6315,7 +6315,7 @@
     "Paper": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Paper.jpg",
       "shop_name": "",
       "colors": {
         "#1155cc": {
@@ -6906,7 +6906,7 @@
     "Pen Box, anodized aluminium": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Pen-Box.jpg",
       "shop_name": "Mr Beam pen box, anodized aluminium",
       "colors": {
         "#000000": {
@@ -6998,7 +6998,7 @@
     "Plywood Beech": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Plywood-Beech.jpg",
       "shop_name": "",
       "colors": {
         "#e6d690": {
@@ -7055,7 +7055,7 @@
     },
     "Plywood Birch": {
       "description": "",
-      "safety_note": "",
+      "safety_note": "Plywood-Birch.jpg",
       "image": "",
       "shop_name": "",
       "colors": {
@@ -7227,7 +7227,7 @@
     "Plywood Poplar": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Plywood-Poplar.jpg",
       "shop_name": "",
       "colors": {
         "#e7d27f": {
@@ -7456,7 +7456,7 @@
     "Polypropylene": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Polypropylene.jpg",
       "shop_name": "",
       "colors": {
         "#000000": {
@@ -7950,7 +7950,7 @@
     "Sign Material": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Sign-Material.jpg",
       "shop_name": "",
       "colors": {
         "#d2a477": {
@@ -8205,7 +8205,7 @@
     "Slate": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Slate.jpg",
       "shop_name": "",
       "colors": {
         "#666666": {
@@ -8265,7 +8265,7 @@
     "Solid Wood": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Solid-Wood.jpg",
       "shop_name": "",
       "colors": {
         "#783f04": {
@@ -8445,7 +8445,7 @@
     "Solid Wood Veneer": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Solid-Wood.jpg",
       "shop_name": "",
       "colors": {
         "#3c2d2b": {
@@ -8653,7 +8653,7 @@
     "Stainless Steel": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Stainless-Steel.jpg",
       "shop_name": "",
       "colors": {
         "#cbcccb": {
@@ -8697,7 +8697,7 @@
     "Stamp Rubber": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Stamp-Rubber.jpg",
       "shop_name": "",
       "colors": {
         "#41c500": {
@@ -8749,7 +8749,7 @@
     "Swiss stone pine": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Swiss-Stone-Pine.jpg",
       "shop_name": "",
       "colors": {
         "#bc955a": {
@@ -8841,7 +8841,7 @@
     "Wood Sticker": {
       "description": "",
       "safety_note": "",
-      "image": "",
+      "image": "Wood-Sticker.jpg",
       "shop_name": "",
       "colors": {
         "#783f04": {
