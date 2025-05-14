@@ -1,4 +1,4 @@
-name: Update tags on mrbeam/mrb3-beamOS
+name: Update material settings on mrbeam/mrb3-core-plugin
 
 on:
   release:
