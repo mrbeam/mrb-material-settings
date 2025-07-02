@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "createdAt": "Mon, 10 Mar 2025 11:29:19 GMT",
+  "version": "1.2.2a0",
+  "createdAt": "Wed, 02 Jul 2025 11:29:19 GMT",
   "materials": {
     "Acrylic": {
       "description": "",
@@ -77,12 +77,12 @@
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "600",
+                  "speed": "550",
                   "passes": 3,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -121,13 +121,13 @@
                   "dithering": false
                 },
                 "xx": {
-                  "intensity": "0-25",
-                  "speed": "2000-2000",
+                  "intensity": "0-50",
+                  "speed": "5000-5000",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             }
@@ -379,20 +379,20 @@
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
             "Engrave": {
               "laserhead": {
                 "xx": {
-                  "intensity": "0-25",
-                  "speed": "2000-1700",
+                  "intensity": "0-90",
+                  "speed": "3300-3300",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 },
                 "x": {
                   "intensity": "0-50",
@@ -661,12 +661,12 @@
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "450",
-                  "passes": 3,
+                  "speed": "400",
+                  "passes": 2,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -705,13 +705,13 @@
                   "dithering": false
                 },
                 "xx": {
-                  "intensity": "0-40",
-                  "speed": "2000-2000",
+                  "intensity": "0-80",
+                  "speed": "5000-5000",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             }
@@ -1295,12 +1295,12 @@
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "1800",
+                  "speed": "1710",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -1499,13 +1499,13 @@
                   "dithering": false
                 },
                 "xx": {
-                  "intensity": "0-35",
-                  "speed": "2700-2700",
+                  "intensity": "0-20",
+                  "speed": "5000-5000",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             }
@@ -1676,6 +1676,19 @@
                 }
               }
             },
+            "7": {
+              "laserhead": {
+                "xx": {
+                  "intensity": "100",
+                  "speed": "1000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested TP"
+                }
+              }
+            },
             "Engrave": {
               "laserhead": {
                 "zero": {
@@ -1772,12 +1785,12 @@
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "1700",
-                  "passes": 2,
+                  "speed": "3000",
+                  "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -1819,12 +1832,12 @@
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "1500",
-                  "passes": 2,
+                  "speed": "2000",
+                  "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -2076,12 +2089,12 @@
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "1450",
+                  "speed": "3000",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -2121,12 +2134,12 @@
                 },
                 "xx": {
                   "intensity": "0-12",
-                  "speed": "2000-2000",
+                  "speed": "5000-5000",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             }
@@ -2281,7 +2294,7 @@
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -2323,13 +2336,13 @@
                   "comment": "tested"
                 },
                 "xx": {
-                  "intensity": "0-12",
-                  "speed": "2000-2000",
+                  "intensity": "0-15",
+                  "speed": "5000-5000",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             }
@@ -2527,12 +2540,12 @@
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "1500",
+                  "speed": "1800",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -2574,12 +2587,12 @@
                 },
                 "xx": {
                   "intensity": "0-30",
-                  "speed": "2000-2000",
+                  "speed": "5000-5000",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             }
@@ -2802,12 +2815,12 @@
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "2000",
+                  "speed": "3000",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -2823,13 +2836,13 @@
                   "comment": "tested (Ellen)"
                 },
                 "xx": {
-                  "intensity": "0-7",
-                  "speed": "2000-2000",
+                  "intensity": "0-15",
+                  "speed": "5000-5000",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             }
@@ -3010,12 +3023,12 @@
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "1300",
+                  "speed": "1800",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "testen TP"
                 }
               }
             },
@@ -3039,13 +3052,13 @@
                   "comment": "tested"
                 },
                 "xx": {
-                  "intensity": "0-30",
-                  "speed": "2000-1800",
+                  "intensity": "0-20",
+                  "speed": "5000-5000",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             }
@@ -3268,6 +3281,72 @@
             }
           }
         },
+        "#fcfcfc": {
+          "color_name": "snow",
+          "background_color": "",
+          "thickness": {
+            "3": {
+              "laserhead": {
+                "xx": {
+                  "intensity": "100",
+                  "speed": "400",
+                  "passes": 5,
+                  "compressor": 3,
+                  "piercing_time": 100,
+                  "dithering": false,
+                  "comment": "tested TP"
+                }
+              },
+              "2": {
+                "laserhead": {
+                  "xx": {
+                    "intensity": "100",
+                    "speed": "400",
+                    "passes": 5,
+                    "compressor": 3,
+                    "piercing_time": 100,
+                    "dithering": false,
+                    "comment": "tested TP"
+                  }
+                }
+              }
+            }
+          }
+        },
+
+        "#fface9": {
+          "color_name": "blush",
+          "background_color": "",
+          "thickness": {
+            "3": {
+              "laserhead": {
+                "xx": {
+                  "intensity": "100",
+                  "speed": "1100",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 100,
+                  "dithering": false,
+                  "comment": "tested TP"
+                }
+              }
+            },
+            "Engrave": {
+              "laserhead": {
+                "xx": {
+                  "intensity": "0-35",
+                  "speed": "5000-5000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 100,
+                  "dithering": false,
+                  "comment": "tested TP"
+                }
+              }
+            }
+          }
+        },
+
         "#f49a39": {
           "color_name": "deep saffron",
           "background_color": "",
@@ -4687,6 +4766,38 @@
               }
             }
           }
+        },
+        "#f8cdff": {
+          "color_name": "flamingo",
+          "background_color": "",
+          "thickness": {
+            "2": {
+              "laserhead": {
+                "xx": {
+                  "intensity": "100",
+                  "speed": "2500",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested TP"
+                }
+              }
+            },
+            "Engrave": {
+              "laserhead": {
+                "xx": {
+                  "intensity": "0-20",
+                  "speed": "6000-6000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested TP"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -5384,12 +5495,12 @@
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "450",
-                  "passes": 1,
+                  "speed": "1200",
+                  "passes": 2,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -5413,12 +5524,12 @@
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "500",
+                  "speed": "800",
                   "passes": 2,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -5435,12 +5546,12 @@
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "400",
+                  "speed": "500",
                   "passes": 2,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -5481,13 +5592,13 @@
                   "comment": "tested"
                 },
                 "xx": {
-                  "intensity": "0-22",
-                  "speed": "2000-2000",
+                  "intensity": "0-49",
+                  "speed": "5000-5000",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -5500,6 +5611,15 @@
                   "compressor": 0,
                   "piercing_time": 0,
                   "dithering": false
+                },
+                "xx": {
+                  "intensity": "100",
+                  "speed": "1000",
+                  "passes": 1,
+                  "compressor": 0,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested TP"
                 }
               }
             },
@@ -5532,12 +5652,12 @@
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "950",
+                  "speed": "1500",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -5967,6 +6087,28 @@
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false
+                }
+              }
+            }
+          }
+        },
+        "#fffff8": {
+          "color_name": "creme",
+          "background_color": "",
+          "thickness": {
+            "Engrave": {
+              "laserhead": {}
+            },
+            "0.6": {
+              "laserhead": {
+                "xx": {
+                  "intensity": "100",
+                  "speed": "800",
+                  "passes": 2,
+                  "compressor": 3,
+                  "piercing_time": 100,
+                  "dithering": false,
+                  "comment": "tested TP"
                 }
               }
             }
@@ -7045,8 +7187,8 @@
                   "comment": "tested (Ellen)"
                 },
                 "xx": {
-                  "intensity": "0-35",
-                  "speed": "2600-3500",
+                  "intensity": "0-45",
+                  "speed": "5000-5000",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
@@ -7278,12 +7420,12 @@
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "500",
+                  "speed": "550",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -7342,7 +7484,7 @@
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -7384,7 +7526,7 @@
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -7445,13 +7587,13 @@
                   "dithering": false
                 },
                 "xx": {
-                  "intensity": "0-15",
-                  "speed": "2000-1800",
+                  "intensity": "0-48",
+                  "speed": "5000-5000",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             }
@@ -7961,7 +8103,7 @@
       "colors": {
         "#d2a477": {
           "color_name": "copper",
-          "background_color": "",
+          "background_color": "#333333",
           "thickness": {
             "Engrave": {
               "laserhead": {
@@ -8043,7 +8185,7 @@
         },
         "#dedede": {
           "color_name": "silver",
-          "background_color": "",
+          "background_color": "#333333",
           "thickness": {
             "Engrave": {
               "laserhead": {
@@ -8125,7 +8267,7 @@
         },
         "#f3de8d": {
           "color_name": "gold",
-          "background_color": "",
+          "background_color": "#333333",
           "thickness": {
             "Engrave": {
               "laserhead": {
@@ -8201,6 +8343,38 @@
                   "piercing_time": 0,
                   "dithering": false,
                   "comment": "extrapolated from dreamcut x values"
+                }
+              }
+            }
+          }
+        },
+        "#f4f5ff": {
+          "color_name": "arctic",
+          "background_color": "#333333",
+          "thickness": {
+            "Engrave": {
+              "laserhead": {
+                "xx": {
+                  "intensity": "0-60",
+                  "speed": "2800-2800",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested TP"
+                }
+              }
+            },
+            "1.5": {
+              "laserhead": {
+                "xx": {
+                  "intensity": "100",
+                  "speed": "950",
+                  "passes": 2,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested TP"
                 }
               }
             }
@@ -8415,6 +8589,19 @@
                 }
               }
             },
+            "7": {
+              "laserhead": {
+                "xx": {
+                  "intensity": "100",
+                  "speed": "500",
+                  "passes": 3,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested TP"
+                }
+              }
+            },
             "Engrave": {
               "laserhead": {
                 "S": {
@@ -8434,14 +8621,439 @@
                   "dithering": false
                 },
                 "xx": {
-                  "intensity": "0-15",
-                  "speed": "2000-2000",
+                  "intensity": "0-18",
+                  "speed": "5000-5000",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
                   "comment": "extrapolated from dreamcut x values"
                 }
+              }
+            }
+          }
+        },
+        "#e6d690": {
+          "color_name": "beech",
+          "background_color": "",
+          "thickness": {
+            "7": {
+              "laserhead": {
+                "xx": {
+                  "intensity": "100",
+                  "speed": "700",
+                  "passes": 6,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from dreamcut x values"
+                }
+              }
+            },
+            "Engrave": {
+              "laserhead": {
+                "xx": {
+                  "intensity": "0-16",
+                  "speed": "5000-5000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested TP"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Klötzchenmann Klötzchen": {
+      "description": "Bastelklötzchen vom Klötzchenmann",
+      "safety_note": "",
+      "image": "Kloetzchenmann-Wood.jpg",
+      "shop_name": "",
+      "colors": {
+        "#783f04": {
+          "color_name": "ash",
+          "background_color": "",
+          "thickness": {
+            "Engrave": {
+              "laserhead": {
+                "x": {
+                  "intensity": "0-21",
+                  "speed": "2000-2000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false
+                },
+                "xx": {
+                  "intensity": "0-20",
+                  "speed": "3000-3000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": ""
+                }
+              }
+            }
+          }
+        },
+        "#bc955a": {
+          "color_name": "oak",
+          "background_color": "",
+          "thickness": {
+            "8": {
+              "laserhead": {
+                "xx": {
+                  "intensity": "100",
+                  "speed": "500",
+                  "passes": 3,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested TP"
+                }
+              }
+            },
+            "Engrave": {
+              "laserhead": {
+                "S": {
+                  "intensity": "0-35",
+                  "speed": "1200-1600",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false
+                },
+                "x": {
+                  "intensity": "0-23",
+                  "speed": "2000-2000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false
+                },
+                "xx": {
+                  "intensity": "0-18",
+                  "speed": "5000-5000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested TP"
+                }
+              }
+            }
+          }
+        },
+        "#e6d690": {
+          "color_name": "beech",
+          "background_color": "",
+          "thickness": {
+            "8": {
+              "laserhead": {
+                "xx": {
+                  "intensity": "100",
+                  "speed": "600",
+                  "passes": 6,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested TP"
+                }
+              }
+            },
+            "Engrave": {
+              "laserhead": {
+                "x": {
+                  "intensity": "0-21",
+                  "speed": "2000-2000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": ""
+                },
+                "xx": {
+                  "intensity": "0-24",
+                  "speed": "3000-3000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested TP"
+                }
+              }
+            }
+          }
+        },
+        "#e6a289": {
+          "color_name": "cherry",
+          "background_color": "",
+          "thickness": {
+            "Engrave": {
+              "laserhead": {
+                "x": {
+                  "intensity": "0-22",
+                  "speed": "2000-2000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": ""
+                },
+                "xx": {
+                  "intensity": "0-24",
+                  "speed": "3000-3000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": ""
+                }
+              }
+            }
+          }
+        },
+        "#875f50": {
+          "color_name": "walnut",
+          "background_color": "",
+          "thickness": {
+            "Engrave": {
+              "laserhead": {
+                "x": {
+                  "intensity": "0-20",
+                  "speed": "2000-2000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": ""
+                },
+                "xx": {
+                  "intensity": "0-24",
+                  "speed": "3500-3500",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": ""
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Klötzchenmann Bastelfurnier": {
+      "description": "Bastelfurnier vom Klötzchenmann",
+      "safety_note": "",
+      "image": "Kloetzchenmann-Veneer.jpg",
+      "shop_name": "",
+      "colors": {
+        "#622d2d": {
+          "color_name": "wenge",
+          "background_color": "",
+          "thickness": {
+            "Engrave": {
+              "laserhead": {
+                "x": {
+                  "intensity": "0-22",
+                  "speed": "2000-2000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false
+                },
+                "xx": {
+                  "intensity": "0-22",
+                  "speed": "5000-5000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from dreamcut x values"
+                }
+              }
+            },
+            "4": {
+              "laserhead": {
+                "x": {
+                  "intensity": "100",
+                  "speed": "300",
+                  "passes": 7,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false
+                },
+                "xx": {
+                  "intensity": "100",
+                  "speed": "600",
+                  "passes": 6,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from dreamcut x values"
+                }
+              }
+            }
+          }
+        },
+        "#bc955a": {
+          "color_name": "oak",
+          "background_color": "",
+          "thickness": {
+            "4": {
+              "laserhead": {
+                "x": {
+                  "intensity": "100",
+                  "speed": "300",
+                  "passes": 3,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": ""
+                },
+                "xx": {
+                  "intensity": "100",
+                  "speed": "500",
+                  "passes": 2,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "interpolated from xx 8mm"
+                }
+              }
+            },
+            "Engrave": {
+              "laserhead": {
+                "S": {
+                  "intensity": "0-35",
+                  "speed": "1200-1600",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false
+                },
+                "x": {
+                  "intensity": "0-23",
+                  "speed": "2000-2000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false
+                },
+                "xx": {
+                  "intensity": "0-18",
+                  "speed": "5000-5000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested TP"
+                }
+              }
+            }
+          }
+        },
+        "#e6d690": {
+          "color_name": "beech",
+          "background_color": "",
+          "thickness": {
+            "4": {
+              "laserhead": {
+                "x": {
+                  "intensity": "100",
+                  "speed": "280",
+                  "passes": 3,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": ""
+                },
+                "xx": {
+                  "intensity": "100",
+                  "speed": "550",
+                  "passes": 3,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": ""
+                }
+              }
+            },
+            "Engrave": {
+              "laserhead": {
+                "x": {
+                  "intensity": "0-21",
+                  "speed": "2000-2000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": ""
+                },
+                "xx": {
+                  "intensity": "0-24",
+                  "speed": "3000-3000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested TP"
+                }
+              }
+            }
+          }
+        },
+        "#875f50": {
+          "color_name": "walnut",
+          "background_color": "",
+          "thickness": {
+            "Engrave": {
+              "laserhead": {
+                "x": {
+                  "intensity": "0-22",
+                  "speed": "2000-2000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": ""
+                },
+                "xx": {
+                  "intensity": "0-24",
+                  "speed": "3500-3500",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": ""
+                }
+              }
+            }
+          },
+          "4": {
+            "laserhead": {
+              "x": {
+                "intensity": "100",
+                "speed": "300",
+                "passes": 3,
+                "compressor": 3,
+                "piercing_time": 0,
+                "dithering": false,
+                "comment": ""
+              },
+              "xx": {
+                "intensity": "100",
+                "speed": "550",
+                "passes": 3,
+                "compressor": 3,
+                "piercing_time": 0,
+                "dithering": false,
+                "comment": ""
               }
             }
           }
@@ -8965,12 +9577,12 @@
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "1050",
-                  "passes": 1,
+                  "speed": "2500",
+                  "passes": 2,
                   "compressor": 3,
                   "piercing_time": 1,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -9003,13 +9615,13 @@
                   "comment": "tested (Ellen) changed (3.8.23)"
                 },
                 "xx": {
-                  "intensity": "0-5",
-                  "speed": "2000-2000",
+                  "intensity": "0-10",
+                  "speed": "5000-5000",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 1,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             }
