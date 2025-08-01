@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2a0",
+  "version": "1.2.2a1",
   "createdAt": "Wed, 02 Jul 2025 11:29:19 GMT",
   "materials": {
     "Acrylic": {
@@ -2049,6 +2049,506 @@
       "image": "Felt.jpg",
       "shop_name": "",
       "colors": {
+        "#eae8e8": {
+          "color_name": "white",
+          "background_color": "",
+          "thickness": {
+            "3": {
+              "laserhead": {
+                "x": {
+                  "intensity": "100",
+                  "speed": "250",
+                  "passes": 7,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested JS"
+                },
+                "xx": {
+                  "intensity": "100",
+                  "speed": "400",
+                  "passes": 4,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x values"
+                }
+              }
+            },
+            "Engrave": {
+              "laserhead": {
+                "x": {
+                  "intensity": "0-30",
+                  "speed": "833-833",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x cut values"
+                },
+                "xx": {
+                  "intensity": "0-30",
+                  "speed": "1700-1700",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from xx cut values"
+                }
+              }
+            }
+          }
+        },
+        "#faefc4": {
+          "color_name": "cream",
+          "background_color": "",
+          "thickness": {
+            "3": {
+              "laserhead": {
+                "x": {
+                  "intensity": "100",
+                  "speed": "300",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested JS"
+                },
+                "xx": {
+                  "intensity": "100",
+                  "speed": "600",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x values"
+                }
+              }
+            },
+            "Engrave": {
+              "laserhead": {
+                "x": {
+                  "intensity": "0-30",
+                  "speed": "1000-1000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x cut values"
+                },
+                "xx": {
+                  "intensity": "0-30",
+                  "speed": "2000-2000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from xx cut values"
+                }
+              }
+            }
+          }
+        },
+        "#f1cbaa": {
+          "color_name": "beige",
+          "background_color": "",
+          "thickness": {
+            "3": {
+              "laserhead": {
+                "x": {
+                  "intensity": "100",
+                  "speed": "500",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested JS"
+                },
+                "xx": {
+                  "intensity": "100",
+                  "speed": "1000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x values"
+                }
+              }
+            },
+            "Engrave": {
+              "laserhead": {
+                "x": {
+                  "intensity": "0-30",
+                  "speed": "1700-1700",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x cut values"
+                },
+                "xx": {
+                  "intensity": "0-30",
+                  "speed": "3300-3300",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from xx cut values"
+                }
+              }
+            }
+          }
+        },
+        "#aa7c66": {
+          "color_name": "mottled brown",
+          "background_color": "",
+          "thickness": {
+            "3": {
+              "laserhead": {
+                "x": {
+                  "intensity": "100",
+                  "speed": "700",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested JS"
+                },
+                "xx": {
+                  "intensity": "100",
+                  "speed": "1400",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x values"
+                }
+              }
+            },
+            "Engrave": {
+              "laserhead": {
+                "x": {
+                  "intensity": "0-30",
+                  "speed": "2300-2300",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x cut values"
+                },
+                "xx": {
+                  "intensity": "0-30",
+                  "speed": "4700-4700",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from xx cut values"
+                }
+              }
+            }
+          }
+        },
+        "#7e6344": {
+          "color_name": "brown",
+          "background_color": "",
+          "thickness": {
+            "3": {
+              "laserhead": {
+                "x": {
+                  "intensity": "100",
+                  "speed": "800",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested JS"
+                },
+                "xx": {
+                  "intensity": "100",
+                  "speed": "1500",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x values"
+                }
+              }
+            },
+            "Engrave": {
+              "laserhead": {
+                "x": {
+                  "intensity": "0-30",
+                  "speed": "2700-2700",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x cut values"
+                },
+                "xx": {
+                  "intensity": "0-30",
+                  "speed": "5300-5300",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from xx cut values"
+                }
+              }
+            }
+          }
+        },
+        "#98fb98": {
+          "color_name": "apple green",
+          "background_color": "",
+          "thickness": {
+            "3": {
+              "laserhead": {
+                "x": {
+                  "intensity": "100",
+                  "speed": "1000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested JS"
+                },
+                "xx": {
+                  "intensity": "100",
+                  "speed": "1800",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x values"
+                }
+              }
+            },
+            "Engrave": {
+              "laserhead": {
+                "x": {
+                  "intensity": "0-30",
+                  "speed": "3333-3333",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x cut values"
+                },
+                "xx": {
+                  "intensity": "0-30",
+                  "speed": "5000-5000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from xx cut values"
+                }
+              }
+            }
+          }
+        },
+        "#0d0f1f": {
+          "color_name": "marine",
+          "background_color": "",
+          "thickness": {
+            "3": {
+              "laserhead": {
+                "x": {
+                  "intensity": "100",
+                  "speed": "600",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested JS"
+                },
+                "xx": {
+                  "intensity": "100",
+                  "speed": "1200",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x values"
+                }
+              }
+            },
+            "Engrave": {
+              "laserhead": {
+                "x": {
+                  "intensity": "0-60",
+                  "speed": "2400-2400",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x cut values"
+                },
+                "xx": {
+                  "intensity": "0-60",
+                  "speed": "5000-5000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from xx cut values"
+                }
+              }
+            }
+          }
+        },        
+        "#7fffd4": {
+          "color_name": "aquamarine",
+          "background_color": "",
+          "thickness": {
+            "3": {
+              "laserhead": {
+                "x": {
+                  "intensity": "100",
+                  "speed": "1200",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested JS"
+                },
+                "xx": {
+                  "intensity": "100",
+                  "speed": "2000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x values"
+                }
+              }
+            },
+            "Engrave": {
+              "laserhead": {
+                "x": {
+                  "intensity": "0-30",
+                  "speed": "4000-4000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x cut values"
+                },
+                "xx": {
+                  "intensity": "0-30",
+                  "speed": "5000-5000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from xx cut values"
+                }
+              }
+            }
+          }
+        },
+        "#ffb6c1": {
+          "color_name": "light pink",
+          "background_color": "",
+          "thickness": {
+            "3": {
+              "laserhead": {
+                "x": {
+                  "intensity": "100",
+                  "speed": "300",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested JS"
+                },
+                "xx": {
+                  "intensity": "100",
+                  "speed": "600",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x values"
+                }
+              }
+            },
+            "Engrave": {
+              "laserhead": {
+                "x": {
+                  "intensity": "0-30",
+                  "speed": "1000-1000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x cut values"
+                },
+                "xx": {
+                  "intensity": "0-30",
+                  "speed": "2000-2000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from xx cut values"
+                }
+              }
+            }
+          }
+        },
+        "#f86e77": {
+          "color_name": "coral",
+          "background_color": "",
+          "thickness": {
+            "3": {
+              "laserhead": {
+                "x": {
+                  "intensity": "100",
+                  "speed": "500",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested JS"
+                },
+                "xx": {
+                  "intensity": "100",
+                  "speed": "1000",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x values"
+                }
+              }
+            },
+            "Engrave": {
+              "laserhead": {
+                "x": {
+                  "intensity": "0-30",
+                  "speed": "1700-1700",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from x cut values"
+                },
+                "xx": {
+                  "intensity": "0-15",
+                  "speed": "3300-3300",
+                  "passes": 1,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "extrapolated from xx cut values"
+                }
+              }
+            }
+          }
+        },
         "#293365": {
           "color_name": "dark blue",
           "background_color": "",
