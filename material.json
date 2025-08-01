@@ -2049,56 +2049,6 @@
       "image": "Felt.jpg",
       "shop_name": "",
       "colors": {
-        "#eae8e8": {
-          "color_name": "white",
-          "background_color": "",
-          "thickness": {
-            "3": {
-              "laserhead": {
-                "x": {
-                  "intensity": "100",
-                  "speed": "250",
-                  "passes": 7,
-                  "compressor": 3,
-                  "piercing_time": 0,
-                  "dithering": false,
-                  "comment": "tested JS"
-                },
-                "xx": {
-                  "intensity": "100",
-                  "speed": "400",
-                  "passes": 4,
-                  "compressor": 3,
-                  "piercing_time": 0,
-                  "dithering": false,
-                  "comment": "extrapolated from x values"
-                }
-              }
-            },
-            "Engrave": {
-              "laserhead": {
-                "x": {
-                  "intensity": "0-30",
-                  "speed": "833-833",
-                  "passes": 1,
-                  "compressor": 3,
-                  "piercing_time": 0,
-                  "dithering": false,
-                  "comment": "extrapolated from x cut values"
-                },
-                "xx": {
-                  "intensity": "0-30",
-                  "speed": "1700-1700",
-                  "passes": 1,
-                  "compressor": 3,
-                  "piercing_time": 0,
-                  "dithering": false,
-                  "comment": "extrapolated from xx cut values"
-                }
-              }
-            }
-          }
-        },
         "#faefc4": {
           "color_name": "cream",
           "background_color": "",
@@ -3787,6 +3737,15 @@
           "thickness": {
             "3": {
               "laserhead": {
+                "x": {
+                  "intensity": "100",
+                  "speed": "250",
+                  "passes": 7,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested JS"
+                },
                 "xx": {
                   "intensity": "100",
                   "speed": "400",
@@ -3813,7 +3772,6 @@
             }
           }
         },
-
         "#fface9": {
           "color_name": "blush",
           "background_color": "",
