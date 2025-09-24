@@ -798,20 +798,20 @@
               "laserhead": {
                 "x": {
                   "intensity": "100",
-                  "speed": "200",
-                  "passes": 4,
+                  "speed": "1000",
+                  "passes": 7,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "200",
-                  "passes": 2,
+                  "speed": "600",
+                  "passes": 4,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -2066,12 +2066,12 @@
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "400",
-                  "passes": 4,
+                  "speed": "500",
+                  "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -3789,8 +3789,8 @@
               "laserhead": {
                 "xx": {
                   "intensity": "100",
-                  "speed": "400",
-                  "passes": 5,
+                  "speed": "500",
+                  "passes": 1,
                   "compressor": 3,
                   "piercing_time": 100,
                   "dithering": false,
@@ -3801,8 +3801,8 @@
                 "laserhead": {
                   "xx": {
                     "intensity": "100",
-                    "speed": "400",
-                    "passes": 5,
+                    "speed": "500",
+                    "passes": 1,
                     "compressor": 3,
                     "piercing_time": 100,
                     "dithering": false,
@@ -7797,13 +7797,13 @@
                   "dithering": false
                 },
                 "xx": {
-                  "intensity": "0-7",
-                  "speed": "2000-1800",
+                  "intensity": "0-70",
+                  "speed": "6000-6000",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "tested TP"
                 }
               }
             },
@@ -8049,6 +8049,32 @@
                   "piercing_time": 0,
                   "dithering": false,
                   "comment": "extrapolated from dreamcut x values"
+                }
+              }
+            },
+            "12": {
+              "laserhead": {
+                "xx": {
+                  "intensity": "100",
+                  "speed": "600",
+                  "passes": 6,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested TP"
+                }
+              }
+            },
+            "15": {
+              "laserhead": {
+                "xx": {
+                  "intensity": "100",
+                  "speed": "800",
+                  "passes": 10,
+                  "compressor": 3,
+                  "piercing_time": 0,
+                  "dithering": false,
+                  "comment": "tested TP"
                 }
               }
             },
@@ -9391,11 +9417,11 @@
                 "xx": {
                   "intensity": "100",
                   "speed": "600",
-                  "passes": 6,
+                  "passes": 2,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "Tested by JS"
                 }
               }
             }
@@ -9418,12 +9444,12 @@
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "500",
+                  "speed": "600",
                   "passes": 2,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "interpolated from xx 8mm"
+                  "comment": "Tested by JS"
                 }
               }
             },
@@ -9475,12 +9501,12 @@
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "550",
-                  "passes": 3,
+                  "speed": "600",
+                  "passes": 2,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": ""
+                  "comment": "Tested by JS"
                 }
               }
             },
@@ -9548,12 +9574,12 @@
               },
               "xx": {
                 "intensity": "100",
-                "speed": "550",
-                "passes": 3,
+                "speed": "600",
+                "passes": 2,
                 "compressor": 3,
                 "piercing_time": 0,
                 "dithering": false,
-                "comment": ""
+                "comment": "Tested by JS"
               }
             }
           }
@@ -9942,13 +9968,13 @@
                   "comment": "tested"
                 },
                 "xx": {
-                  "intensity": "0-10",
-                  "speed": "2000-2000",
+                  "intensity": "0-60",
+                  "speed": "6000-6000",
                   "passes": 1,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
-                  "comment": "extrapolated from dreamcut x values"
+                  "comment": "Tested TP"
                 }
               }
             }
