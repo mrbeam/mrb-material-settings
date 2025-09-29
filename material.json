@@ -798,16 +798,16 @@
               "laserhead": {
                 "x": {
                   "intensity": "100",
-                  "speed": "1000",
-                  "passes": 7,
+                  "speed": "200",
+                  "passes": 4,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false
                 },
                 "xx": {
                   "intensity": "100",
-                  "speed": "600",
-                  "passes": 4,
+                  "speed": "1000",
+                  "passes": 7,
                   "compressor": 3,
                   "piercing_time": 0,
                   "dithering": false,
