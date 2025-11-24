@@ -1,6 +1,6 @@
 {
-  "version": "1.2.4",
-  "createdAt": "Wed, 02 Jul 2025 11:29:19 GMT",
+  "version": "1.2.5",
+  "createdAt": "Wed, 19 Nov 2025 14:12:00 GMT",
   "materials": {
     "Acrylic": {
       "description": "",
@@ -9559,9 +9559,8 @@
                   "comment": ""
                 }
               }
-            }
-          },
-          "4": {
+            },
+            "4": {
             "laserhead": {
               "x": {
                 "intensity": "100",
@@ -9582,6 +9581,7 @@
                 "comment": "Tested by JS"
               }
             }
+          }
           }
         }
       }
